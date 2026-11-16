@@ -1,5 +1,6 @@
 {
-  "baseUrl": "https://xxx.trycloudflare.com",
+  "baseUrl": "{
+  "baseUrl": "https://clips-zealand-instantly-highlighted.trycloudflare.com",
   "workspace": "web",
   "domain": "https://clips-zealand-instantly-highlighted.trycloudflare.com",
   "url": "https://clips-zealand-instantly-highlighted.trycloudflare.com",
