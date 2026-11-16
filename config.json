@@ -1,11 +1,10 @@
 {
-  "baseUrl": "{
-  "baseUrl": "https://clips-zealand-instantly-highlighted.trycloudflare.com",
   "workspace": "web",
-  "domain": "https://clips-zealand-instantly-highlighted.trycloudflare.com",
-  "url": "https://clips-zealand-instantly-highlighted.trycloudflare.com",
+  "domain": "https://being-rpg-twisted-cancellation.trycloudflare.com",
+  "url": "https://being-rpg-twisted-cancellation.trycloudflare.com",
+  "baseUrl": "https://being-rpg-twisted-cancellation.trycloudflare.com",
   "tunnel_type": "cloudflared-quick",
   "local_port": 8079,
-  "updated_at": "2026-11-16T08:32:33+0800",
-  "updated_ts": 1794789153
+  "updated_at": "2026-11-16T08:38:50+0800",
+  "updated_ts": 1794789530
 }
