@@ -1,9 +1,9 @@
 {
   "workspace": "web",
-  "domain": "https://integrity-refuse-administered-deserve.trycloudflare.com",
-  "url": "https://integrity-refuse-administered-deserve.trycloudflare.com",
+  "domain": "https://findlaw-web-jazz-barely.trycloudflare.com",
+  "url": "https://findlaw-web-jazz-barely.trycloudflare.com",
   "tunnel_type": "cloudflared-quick",
   "local_port": 8079,
-  "updated_at": "2026-11-16T08:25:41+0800",
-  "updated_ts": 1794788741
+  "updated_at": "2026-11-16T08:25:45+0800",
+  "updated_ts": 1794788745
 }
